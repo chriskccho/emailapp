@@ -8,6 +8,10 @@ textarea {
     margin-bottom: 10px;
 }
 
+.each-email:hover {
+    background-color: #ededed;
+}
+
 .component {
     display: inline-block;
     margin-left: 10px;
