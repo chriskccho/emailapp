@@ -21,12 +21,18 @@ textarea {
 }
 
 .time {
-    float: right;
     margin-right: 10px;
-    text-align: right;
+    text-align: left;
     color: grey;
+    width:43%;
+   
 }
 
+.archive-btn {
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
 .sender {
     font-weight: bold;
 }
